@@ -1,0 +1,17 @@
+{
+  "name": "crakseo",
+  "version": "1.0.0",
+  "description": "SEO data, URL indexing and free Google Search Console and Bing Webmaster Tools for Gemini CLI: SERP, keyword volume, backlinks, rank tracking, IndexNow.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "crakseo-seo": {
+      "httpUrl": "https://crakseo.com/mcp/seo"
+    },
+    "crakseo-search-console": {
+      "httpUrl": "https://crakseo.com/mcp/search-console"
+    },
+    "crakseo-url-indexing": {
+      "httpUrl": "https://crakseo.com/mcp/url-indexing"
+    }
+  }
+}
